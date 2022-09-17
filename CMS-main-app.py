@@ -1,4 +1,4 @@
-from PyQt5 import QtCore, QtGui, QtWidgets, QtSql
+from PyQt5 import QtCore, QtGui, QtWidgets
 
 class Ui_Wizard(object):
     def setupUi(self, Wizard):
